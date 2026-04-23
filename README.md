@@ -88,9 +88,9 @@ Un buen maestro nunca deja de ser estudiante. Ahora mismo estoy profundizando mi
 
 ¿Eres un estudiante con dudas? ¿Un colega educador? ¿O simplemente quieres hablar de código? ¡Escríbeme!
 
-* 💼 **LinkedIn:** [linkedin.com/in/teacher-ana-dev](#)
+* 💼 **LinkedIn:** [ana.maria.vasquez@clases.edu.sv](#)
 * 📧 **Correo:** [profesora.ana.dev@ejemplo.com](mailto:profesora.ana.dev@ejemplo.com)
-* ☕ **Agendar una tutoría:** [calendly.com/teacher-ana](#)
+* ☕ **Agendar una tutoría:** [ana.maria.vasquez@clases.edu.sv](#)
 
 ---
 ⭐️ *¡Gracias por visitar mi perfil! Recuerda: un día a la vez, una línea de código a la vez.*
